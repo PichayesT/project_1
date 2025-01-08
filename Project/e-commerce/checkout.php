@@ -144,3 +144,5 @@ if (isset($_SESSION['user_id']) && $_SESSION['user_id'] !== '') {
     </footer>
 </body>
 </html>
+
+//try to do my best
