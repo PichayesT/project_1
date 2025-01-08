@@ -100,4 +100,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['username'])) {
         <p>&copy; 2024 Logic Peripherals Australia.</p>
     </footer>
 </body>
+    
 </html>
